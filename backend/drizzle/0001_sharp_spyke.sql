@@ -1,0 +1,1 @@
+ALTER TABLE "pantry_items" ALTER COLUMN "expiration_date" SET NOT NULL;
