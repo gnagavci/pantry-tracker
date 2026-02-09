@@ -1,0 +1,11 @@
+.item-main {
+    background-color: rgb(215, 215, 215);
+    border: 0.5px solid black;
+    border-radius: 10px;
+    padding: 20px 5px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    height: auto;
+    width: auto;
+    display: inline-block;
+    margin: 5px 10px;
+}
